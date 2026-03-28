@@ -3,10 +3,8 @@ This repository is a personal space dedicated to building a consistent habit of 
 
 | Sno | Problem | Difficulty | Platform | Solution |
 |---|--------|------------|----------|----------|
-| 1 | Consecutive Subsequences
- | 🟢 E | [LeetCode](https://www.hackerrank.com/challenges/consecutive-subsequences/problem) | [View](#consecutive-subsequences) |
+| 1 | Consecutive Subsequences| 🟢 E | [LeetCode](https://www.hackerrank.com/challenges/consecutive-subsequences/problem) | [View](#consecutive-subsequences) |
 ### 🔹 Consecutive Subsequences
-
 <a name="consecutive-subsequences"></a>
 
 <details>
