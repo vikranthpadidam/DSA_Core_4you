@@ -3,10 +3,7 @@ This repository is a personal space dedicated to building a consistent habit of 
 
 | Sno | Problem | Difficulty | Platform | Solution |
 |---|--------|------------|----------|----------|
-| 1 | Consecutive Subsequences| 🟢 E | [HackerRank](https://www.hackerrank.com/challenges/consecutive-subsequences/problem)|<details>
-<summary>💡 Click to view solution</summary>
-
----
+| 1 | Consecutive Subsequences| 🟢 E | [HackerRank](https://www.hackerrank.com/challenges/consecutive-subsequences/problem)|<details><summary>CTV</summary>         
 
 ### 🧠 Approach
 
